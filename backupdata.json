@@ -1,0 +1,15 @@
+{
+    "Admin":
+    {
+        "Characters":[],
+        "Level":0,
+        "Total Power":0
+
+    },
+    "Goku":
+    {
+        "Power":9001
+
+    },
+    "Erased":"No"
+}
